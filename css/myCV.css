@@ -1,0 +1,64 @@
+
+.myBody
+{
+background-image: url("../css/walpapers/my_Blender_img1_1920x1080.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.divCloud
+{
+background-image: url("../css/walpapers/my_Blender_img_1920x1080.png");
+background-repeat: no-repeat;
+background-size: cover;
+border-radius: 50%;
+height:650px;
+width: 900px;
+margin-right: auto;
+margin-left: auto;
+align-self: center;
+margin-top: 50px;
+
+}
+
+.hideCloudBtn
+{
+background-image: url("../css/icons/delete.png");
+background-repeat: no-repeat;
+background-size: contain;
+height:50px;
+width: 50px;
+margin-top: -240px;
+margin-left: 840px;
+border-color: rgb(0, 60, 255);
+border-radius: 50%;
+position: absolute;
+/*border-style: dotted;*/
+
+}
+
+.welcomeTitle
+{
+border-color: blue;
+height: 100px;
+width: 800px;
+font-size: 30px;
+text-align: center;
+background-color: rgb(182, 204, 250);
+align-self: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: 12px;
+border-bottom-left-radius: 20vh;
+border-bottom-right-radius: 20vh;
+
+}
+.divMyExperience{
+margin-right: auto;
+margin-left: auto;
+align-self: center;
+
+
+}
+
+
